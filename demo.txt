@@ -1,0 +1,1 @@
+This is some random text as a demo for CCGC-5502 class Lab 1
